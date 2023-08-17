@@ -1,2 +1,3 @@
 # Project
-It is for master project.
+OCT Image Classification on Diabetic Retinopathy
+It is for the master project.
